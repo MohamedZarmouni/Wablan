@@ -159,5 +159,3 @@ if (window.innerWidth <= 768) {
   console.log("Affiché sur un ordinateur");
 }
 
-
-localStorage.setItem("mesFruits", JSON.stringify(tabli));
